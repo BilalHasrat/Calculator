@@ -12,7 +12,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
 
-  var userInput = '';
+  var userInput = ' ';
   var answer = '';
 
   @override
